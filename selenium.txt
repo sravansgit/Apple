@@ -1,1 +1,9 @@
 driver.find element()
+1) tag name
+2) By Xpath
+3) link text
+4) Partial link text
+5) class name
+6) css selector
+7) id
+8) Name
